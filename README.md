@@ -11,5 +11,3 @@ You can click the Preview link to take a look at your changes.
  - [x] Dart
  - [x] C#
 
-**Reach me:** 
->[LinkedIn](https://www.linkedin.com/in/leonardo-steffen-5083a7168/)
